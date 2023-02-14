@@ -1,0 +1,6 @@
+Changes to version 0.2
+
+- Fixed Bugs
+    - Added try-exception checks to avoid NaN and str concatenation 
+- Added description to "Filename" screen
+- Experienced the horrifying task of decompilation
